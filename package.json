@@ -1,0 +1,9 @@
+{
+  "name": "code1337-kata-srp",
+  "description": "Single Responsibility Principle",
+  "author": "",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-run": "^1.6.4"
+  }
+}
